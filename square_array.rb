@@ -6,6 +6,9 @@ def square_array(array)
   squared_numbers
 end
 
+
+#ADVANCED SECTION - USING A HIGHER LEVEL ITERATOR .collect
+
 #def square_array(array)
  # array.collect {|num| squared_numbers << num**2}
 #end
