@@ -8,5 +8,4 @@ end
 
 def square_array(array)
   array.collect {|num| squared_numbers << num**2}
-
 end
