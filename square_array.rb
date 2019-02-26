@@ -1,4 +1,4 @@
-#This method below uses only the .each array method ONLY. Here, we 
+#This method below uses only the .each array method ONLY. Here, we have
 
 def square_array(array)
   squared_numbers = []
