@@ -5,3 +5,8 @@ def square_array(array)
   array.each {|num| squared_numbers << num**2}
   squared_numbers
 end
+
+def square_array(array)
+  array.collect {|num| squared_numbers << num**2}
+
+end
